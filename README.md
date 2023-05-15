@@ -14,7 +14,7 @@ These qualities make an excellent match for web development, which requires mast
 I currently work in a **B2C Commerce Cloud Development**.  I love my job because:
 
 - 💡 I get to work closely with a group of highly talented developers, and thus, I'm constantly learning from them.
-- 🤝 My contributions are valued by the rest of the team and the team lead, giving me a sense of self-worth.
+- 🤝 My contributions help real world clients all over the world achieve their goals.
 - 🧐 I get to work every day on complex tasks, helping hone my problem-solving skills.
 
 
